@@ -1,0 +1,11 @@
+{
+    "Simulator Target Bundle": "com.codigofacilito.flutter",
+    "aps": {
+     "alert" : {
+       "title" : "Test",
+       "body" : "Hola mundo"
+     },
+        "sound": "default",
+        "badge": 1
+    }
+}
